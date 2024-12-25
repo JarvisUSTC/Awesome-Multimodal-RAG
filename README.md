@@ -12,7 +12,7 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
   - [📝 Papers](#-papers)
     - [📖 Surveys and Tutorials](#-surveys-and-tutorials)
     - [🧠 General Multimodal RAG](#-general-multimodal-rag)
-    - [📄 Multimodal Document Understanding and Generation](#-multimodal-document-understanding-and-generation)
+    - [📄 Multimodal Document RAG](#-multimodal-document-rag)
     - [🔍 Domain-Specific Multimodal RAG](#-domain-specific-multimodal-rag)
   - [📊 Datasets](#-datasets)
   - [🔧 Tools and Frameworks](#-tools-and-frameworks)
@@ -47,7 +47,7 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
   - [🧩 MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](http://arxiv.org/abs/2412.14475) - Introduces a novel data synthesis method to create large-scale synthetic datasets for enhanced multimodal retrieval. ⏰ *2024-12*
   - [🔄 Progressive Multimodal Reasoning via Active Retrieval](http://arxiv.org/abs/2412.14835) - Proposes a progressive reasoning framework leveraging active retrieval for multimodal tasks. ⏰ *2024-12*
 
-### 📄 Multimodal Document Understanding and Generation
+### 📄 Multimodal Document RAG
 - **Key Papers:**
   - [🖼️ Unifying Multimodal Retrieval via Document Screenshot Embedding](http://arxiv.org/abs/2406.11251) ⏰ *2024-06*
   - [📘 ColPali: Efficient Document Retrieval with Vision Language Models](http://arxiv.org/abs/2407.01449) ⏰ *2024-07*
