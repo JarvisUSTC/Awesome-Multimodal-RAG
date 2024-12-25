@@ -70,7 +70,7 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
 ## 🔧 Tools and Frameworks
 
 - **Notable Projects:**
-  - [🔨 TODO](link) - Brief description. ⏰ *2024-12*
+  - [🔨 Together Cookbook](https://github.com/togethercomputer/together-cookbook) - It is a collection of code and guides designed to help developers build with open source models using Together AI. ⏰ *2024-12*
 
 ---
 
