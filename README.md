@@ -49,10 +49,11 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
 
 ### 📄 Multimodal Document RAG
 - **Key Papers:**
-  - [🖼️ Unifying Multimodal Retrieval via Document Screenshot Embedding](http://arxiv.org/abs/2406.11251) ⏰ *2024-06*
-  - [📘 ColPali: Efficient Document Retrieval with Vision Language Models](http://arxiv.org/abs/2407.01449) ⏰ *2024-07*
-  - [🎥 VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](http://arxiv.org/abs/2410.10594) ⏰ *2024-10*
   - [📚 VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2412.10704) ⏰ *2024-12*
+  - [🖼️ Unified Multimodal Interleaved Document Representation for Retrieval](http://arxiv.org/abs/2410.02729) ⏰ *2024-12*
+  - [🎥 VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](http://arxiv.org/abs/2410.10594) ⏰ *2024-10*
+  - [📘 ColPali: Efficient Document Retrieval with Vision Language Models](http://arxiv.org/abs/2407.01449) ⏰ *2024-07*
+  - [🖼️ Unifying Multimodal Retrieval via Document Screenshot Embedding](http://arxiv.org/abs/2406.11251) ⏰ *2024-06*
 
 ### 🔍 Domain-Specific Multimodal RAG
 - **Key Papers:**
