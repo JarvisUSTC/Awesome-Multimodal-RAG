@@ -64,6 +64,7 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
 ## 📊 Datasets
 
 - **Key Datasets:**
+  - [📚 MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents](https://arxiv.org/abs/2501.08828) - A new benchmark for page-level and layout-level retrieval, aiming to localize relevant pages in long documents and detect specific layouts with finer granularity than whole-page analysis. The data source is primarily derived from existing DocVQA datasets. ⏰ *2024-1*
   - [📚 Document Haystacks: Vision-Language Reasoning Over Piles of  1000+ Documents](http://arxiv.org/abs/2411.16740) - A dataset for mRAG, derived from DocVQA and InfographicVQA, featuring 300 evaluation questions and 3,000 training questions. ⏰ *2024-12*
   - [📚 LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating](http://arxiv.org/abs/2412.18424) - A benchmark for Long Document Understanding, Numerical Reasoning, and Cross-Element Locating, comprising 20 sub-tasks and 2,325 QA pairs across 33,000+ document pages. ⏰ *2024-12*
   - [📚 Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](http://arxiv.org/abs/2411.02937) - A challenging dataset for dynamic RAG tasks. ⏰ *2024-11*
