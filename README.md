@@ -80,6 +80,7 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
 - **Notable Projects:**
   - [🔥 Kiln](https://kiln.tech) - Build a RAG in 5 minutes using drag-and-drop. Kiln is a free tool for building production-ready AI systems, supporting RAG pipelines (text, image, audio, video), evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning. [GitHub](https://github.com/Kiln-AI/Kiln) ⏰ *2025-11*
   - [🔨 Together Cookbook](https://github.com/togethercomputer/together-cookbook) - It is a collection of code and guides designed to help developers build with open source models using Together AI. ⏰ *2024-12*
+  - [🧭 WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - A 16-problem taxonomy for diagnosing RAG pipeline failures such as hallucination, retrieval drift, and grounding issues.⏰ *2025-08*
 
 ---
 
