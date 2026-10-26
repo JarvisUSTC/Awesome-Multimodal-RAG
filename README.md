@@ -73,6 +73,7 @@ A curated list of the latest advancements, papers, tools, and datasets for **Mul
   - [📚 M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework](http://arxiv.org/abs/2411.06176) - A benchmark consisting of 851 samples featuring lengthy and diverse multimodal content, including text, figures, and tables, drawn from academic papers, technical manuals, and financial reports. ⏰ *2024-11*
   - [📚 MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations](http://arxiv.org/abs/2407.01523) - A long-context multimodal benchmark of 1,082 expert-annotated questions based on 135 lengthy PDF documents (average 47.5 pages), requiring evidence from diverse sources (text, images, tables, charts) and locations. Notably, 33.7% are cross-page questions, and 20.6% are unanswerable to evaluate hallucination detection. ⏰ *2024-07*
   - [📚 SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers](http://arxiv.org/abs/2407.09413) - A large-scale QA dataset (270k questions, 25k papers) specifically designed to interpret complex figures and tables within the context of scientific research articles across various domains of computer science. ⏰ *2024-07*
+  - [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ---
 
